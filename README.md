@@ -50,15 +50,15 @@ Here are some ideas to get you started:
 <!--   <a href="https://krishna-agarwal.medium.com">
 <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/> -->
 
-  <a href="https://twitter.com/dpuydv">
+  <a href="https://twitter.com/dpuydv" target"_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         
-  <a href="https://www.linkedin.com/in/deepuyadav004/">
+  <a href="https://www.linkedin.com/in/deepuyadav004/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-3385ff?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Dev Badge"/>
 
-  <a href = "mailto:deepuyadavze@gmail.com">
+  <a href = "mailto:deepuyadavze@gmail.com" target="_blank">
     <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>                                                                                                                     
-  <a href = "https://discord.com/channels/@me">
+  <a href = "https://discord.com/channels/@me" target="_blank">
     <img src = "https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></img>
 <br>   
 
