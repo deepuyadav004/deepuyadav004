@@ -94,6 +94,9 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
     <img src="https://img.icons8.com/plasticine/58/000000/react.png"/>
     <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+    <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+    <img src="https://img.icons8.com/color/48/000000/golang.png"/>
+    <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
 </p>
 
 
