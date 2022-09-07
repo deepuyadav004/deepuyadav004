@@ -100,7 +100,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" width="90" height="90"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="90" height="90"/>
     <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="90" height="90"/>
-    <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" width="90" height="90"/>
+   <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" width="90" height="90"/>
 </p>
 
 
