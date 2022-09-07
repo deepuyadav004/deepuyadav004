@@ -82,22 +82,22 @@ Here are some ideas to get you started:
 
 ## 🚀 Languages and Tools:
 
-<p align="center" display="grid" grid-template-column="1fr 1fr 1fr 1fr">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/python.png"/>
-    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img src="https://img.icons8.com/plasticine/58/000000/react.png"/>
-    <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-    <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
-    <img src="https://img.icons8.com/color/48/000000/golang.png"/>
-    <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"  width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"width="30" height="30"/> 
+    <img src="https://img.icons8.com/color/48/000000/css3.png" width="30" height="30"/> 
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="30" height="30"/> 
+    <img src="https://img.icons8.com/color/48/000000/python.png" width="30" height="30"/>
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="30" height="30"/> 
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="30" height="30"/> 
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" width="30" height="30"/>
+    <img src="https://img.icons8.com/plasticine/58/000000/react.png" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/docker.png" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/golang.png" width="30" height="30"/>
+    <img src="https://img.icons8.com/color/48/000000/linux--v1.png" width="30" height="30"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" width="30" height="30"/>
 </p>
 
 
