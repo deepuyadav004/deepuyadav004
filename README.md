@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 ## 🚀 Languages and Tools:
 
-<p align="left">
+<p align="center" display="grid" grid-template-column="1fr 1fr 1fr 1fr">
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
     <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
