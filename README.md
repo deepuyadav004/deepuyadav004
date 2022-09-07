@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <br>   
 
   </a>
-</div>
+<!-- </div>
     <br>
     <img src="https://komarev.com/ghpvc/?username=MrKrishnaAgarwal&style=flat-square&color=blue" alt=""/>
   </div>
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://user-images.githubusercontent.com/100597998/188261910-5f4bf00d-0651-4d0a-ba39-bc1c0439be1c.png" height="400"/>
 </div>
-  </div>
+  </div> -->
   
 
 
