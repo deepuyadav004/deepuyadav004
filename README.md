@@ -101,7 +101,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="90" height="90"/>
     <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="90" height="90"/>
 <!--    <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" width="90" height="90"/> -->
-    <img src="https://img.icons8.com/ios-filled/50/000000/c-sharp-logo.png" width="90" height="90"/>
+    <img src="https://img.icons8.com/ios-filled/50/932414/c-sharp-logo.png" width="90" height="90"/>
 </p>
 
 
