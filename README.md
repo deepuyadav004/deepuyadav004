@@ -97,6 +97,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
     <img src="https://img.icons8.com/color/48/000000/golang.png"/>
     <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
 </p>
 
 
