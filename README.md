@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 </p>
 </a>
 
+<br/>
+<br/>
+<br/>
 
 <!--   Social media links   -->
     
@@ -71,7 +74,9 @@ Here are some ideas to get you started:
   </div> -->
   
 
-
+<br/>
+<br/>
+<br/>
 
 
 <!-- gifs in bottonm -->
