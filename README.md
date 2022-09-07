@@ -54,7 +54,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
         
   <a href="https://www.linkedin.com/in/deepuyadav004/">
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Dev Badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Dev Badge"/>
 
   <a href = "mailto:deepuyadavze@gmail.com">
     <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>                                                                                                                     
