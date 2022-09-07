@@ -78,6 +78,28 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+<!-- languages used -->
+
+## 🚀 Languages and Tools:
+
+<p align="left">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png"/>
+    <img src="https://img.icons8.com/plasticine/58/000000/react.png"/>
+    <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+</p>
+
+
+<br/>
+<br/>
+<br/>
 
 <!-- gifs in bottonm -->
 
