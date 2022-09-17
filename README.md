@@ -40,15 +40,28 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<!--   Social media links   -->
+
+<!-- --------------------------------------------------contribution graph--------------------------------------------------------- -->
+
+<a href="https://github.com/deepuyadav004/github-readme-activity-graph">
+<img alt="Deepu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deepuyadav004&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</a>
+
+<br/>
+<br/>
+
+<!-- ----------------------------------------------------------------------------------------------------------  -->
+
+
+<br/>
+<br/>
+<br/>
+
+<!-- -------------------------------------------------  Social media links -----------------------------------------------  -->
     
  
 <div id="header" align="center">
   <div id="badges">
- 
-        
-<!--   <a href="https://krishna-agarwal.medium.com">
-<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/> -->
 
   <a href="https://twitter.com/dpuydv" >
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -78,7 +91,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<!-- languages used -->
+<!--############################################################# languages used ##########################################################-->
 
 ## 🚀 Languages and Tools:
 
@@ -109,17 +122,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-
-<!-- ----------------------------------------------------------------------------------------------------------- -->
-
-<a href="https://github.com/deepuyadav004/github-readme-activity-graph">
-<img alt="Deepu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=deepuyadav004&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</a>
-
-<br/>
-<br/>
-
-<!-- ----------------------------------------------------------------------------------------------------------  -->
 
 
 <!-- gifs in bottonm -->
