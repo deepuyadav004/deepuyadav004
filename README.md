@@ -63,9 +63,10 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <div id="badges">
 
-  <a href="https://twitter.com/dpuydv" >
+  <!-- <a href="https://twitter.com/dpuydv" >
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-        
+      -->
+      
   <a href="https://www.linkedin.com/in/deepuyadav004/" >
 <img src="https://img.shields.io/badge/LinkedIn-3385ff?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="Dev Badge"/>
 
